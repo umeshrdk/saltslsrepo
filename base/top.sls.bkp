@@ -1,0 +1,7 @@
+base:
+  'G@nodename:saltminion1':
+  - s1
+  'G@nodename:saltminion2':
+  - s2
+  '*':
+  - f1
